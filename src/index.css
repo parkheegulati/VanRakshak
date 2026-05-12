@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest-green: #1B4332;
+  --color-earth-brown: #7C4B2A;
+  --color-amber-accent: #D4A017;
+  --color-off-white: #F8F4EF;
+  --color-danger-red: #C0392B;
+
+  --font-sora: "Sora", sans-serif;
+  --font-serif: "Source Serif 4", serif;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-off-white);
+    font-family: var(--font-serif);
+    color: #1a1a1a;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-sora);
+  }
+}
