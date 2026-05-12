@@ -72,22 +72,3 @@ Make sure you have Node.js (v18+ recommended) and npm installed.
 
 ---
 
-## 🎨 Design System
-
-VanRakshak employs a nature-inspired design system tailored to evoke trust and institutional credibility:
-- **Primary:** Deep Forest Green (`#1B4332`)
-- **Secondary:** Earthy Brown (`#7C4B2A`)
-- **Accent:** Warm Amber (`#D4A017`)
-- **Background:** Off-White (`#F8F4EF`)
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/parkheegulati/VanRakshak/issues).
-
----
-
-<div align="center">
-  Built with ❤️ for a more transparent and just ecosystem.
-</div>
